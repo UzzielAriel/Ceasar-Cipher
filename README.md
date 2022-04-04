@@ -17,8 +17,8 @@ py Ceasar-Cipher.py
 Enter any of the three options, which are:
 ```
 a | Encrypt</li>
-b | Decrypt - with a shift </li>
-c | Decrypt - without a shift </li>
+b | Decrypt - with a shift 
+c | Decrypt - without a shift 
 ```
 From there, follow the instructions provided by the program. <br/>
 
