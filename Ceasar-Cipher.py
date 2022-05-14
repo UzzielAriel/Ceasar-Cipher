@@ -100,3 +100,5 @@ def choose():
 			dws()
 
 choose()
+
+input()
